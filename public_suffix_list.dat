@@ -6719,7 +6719,7 @@ org.zw
 
 // newGTLDs
 
-// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-07-08T15:13:18Z
+// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-10-24T15:04:33Z
 // This list is auto-generated, don't edit it manually.
 // aaa : 2015-02-26 American Automobile Association, Inc.
 aaa
@@ -6859,7 +6859,7 @@ anquan
 // anz : 2015-07-31 Australia and New Zealand Banking Group Limited
 anz
 
-// aol : 2015-09-17 Oath Inc.
+// aol : 2015-09-17 Yahoo Inc.
 aol
 
 // apartments : 2014-12-11 Binky Moon, LLC
@@ -6928,9 +6928,6 @@ auto
 // autos : 2014-01-09 XYZ.COM LLC
 autos
 
-// avianca : 2015-01-08 Avianca Inc.
-avianca
-
 // aws : 2015-06-25 AWS Registry LLC
 aws
 
@@ -6948,9 +6945,6 @@ baidu
 
 // banamex : 2015-07-30 Citigroup Inc.
 banamex
-
-// bananarepublic : 2015-07-31 The Gap, Inc.
-bananarepublic
 
 // band : 2014-06-12 Dog Beach, LLC
 band
@@ -7237,13 +7231,10 @@ cbn
 // cbre : 2015-07-02 CBRE, Inc.
 cbre
 
-// cbs : 2015-08-06 CBS Domains Inc.
-cbs
-
 // center : 2013-11-07 Binky Moon, LLC
 center
 
-// ceo : 2013-11-07 CEOTLD Pty Ltd
+// ceo : 2013-11-07 XYZ.COM LLC
 ceo
 
 // cern : 2014-06-05 European Organization for Nuclear Research ("CERN")
@@ -7306,9 +7297,6 @@ citic
 // city : 2014-05-29 Binky Moon, LLC
 city
 
-// cityeats : 2014-12-11 Lifestyle Domain Holdings, Inc.
-cityeats
-
 // claims : 2014-03-20 Binky Moon, LLC
 claims
 
@@ -7350,9 +7338,6 @@ college
 
 // cologne : 2014-02-05 dotKoeln GmbH
 cologne
-
-// comcast : 2015-07-23 Comcast IP Holdings I, LLC
-comcast
 
 // commbank : 2014-06-26 COMMONWEALTH BANK OF AUSTRALIA
 commbank
@@ -7444,9 +7429,6 @@ cymru
 // cyou : 2015-01-22 ShortDot SA
 cyou
 
-// dabur : 2014-02-06 Dabur India Limited
-dabur
-
 // dad : 2014-01-23 Charleston Road Registry Inc.
 dad
 
@@ -7507,9 +7489,6 @@ dental
 // dentist : 2014-03-20 Dog Beach, LLC
 dentist
 
-// desi : 2013-11-14 Desi Networks LLC
-desi
-
 // design : 2014-11-07 Registry Services, LLC
 design
 
@@ -7543,7 +7522,7 @@ discover
 // dish : 2015-07-30 Dish DBS Corporation
 dish
 
-// diy : 2015-11-05 Lifestyle Domain Holdings, Inc.
+// diy : 2015-11-05 Internet Naming Company LLC
 diy
 
 // dnp : 2013-12-13 Dai Nippon Printing Co., Ltd.
@@ -7641,9 +7620,6 @@ esq
 
 // estate : 2013-08-27 Binky Moon, LLC
 estate
-
-// etisalat : 2015-09-03 Emirates Telecommunications Corporation (trading as Etisalat)
-etisalat
 
 // eurovision : 2014-04-24 European Broadcasting Union (EBU)
 eurovision
@@ -7774,7 +7750,7 @@ fly
 // foo : 2014-01-23 Charleston Road Registry Inc.
 foo
 
-// food : 2016-04-21 Lifestyle Domain Holdings, Inc.
+// food : 2016-04-21 Internet Naming Company LLC
 food
 
 // football : 2014-12-18 Binky Moon, LLC
@@ -7789,7 +7765,7 @@ forex
 // forsale : 2014-05-22 Dog Beach, LLC
 forsale
 
-// forum : 2015-04-02 Fegistry, LLC
+// forum : 2015-04-02 Waterford Limited
 forum
 
 // foundation : 2013-12-05 Public Interest Registry
@@ -7810,9 +7786,6 @@ frl
 // frogans : 2013-12-19 OP3FT
 frogans
 
-// frontdoor : 2015-07-02 Lifestyle Domain Holdings, Inc.
-frontdoor
-
 // frontier : 2015-02-05 Frontier Communications Corporation
 frontier
 
@@ -7822,7 +7795,7 @@ ftr
 // fujitsu : 2015-07-30 Fujitsu Limited
 fujitsu
 
-// fun : 2016-01-14 Radix FZC
+// fun : 2016-01-14 Radix Technologies Inc.
 fun
 
 // fund : 2014-03-20 Binky Moon, LLC
@@ -7933,7 +7906,7 @@ goldpoint
 // golf : 2014-12-18 Binky Moon, LLC
 golf
 
-// goo : 2014-12-18 NTT Resonant Inc.
+// goo : 2014-12-18 NTT DOCOMO, INC.
 goo
 
 // goodyear : 2015-07-02 The Goodyear Tire & Rubber Company
@@ -7972,9 +7945,6 @@ grocery
 // group : 2014-08-15 Binky Moon, LLC
 group
 
-// guardian : 2015-07-30 The Guardian Life Insurance Company of America
-guardian
-
 // gucci : 2014-11-13 Guccio Gucci S.p.a.
 gucci
 
@@ -8005,10 +7975,10 @@ haus
 // hbo : 2015-07-30 HBO Registry Services, Inc.
 hbo
 
-// hdfc : 2015-07-30 HOUSING DEVELOPMENT FINANCE CORPORATION LIMITED
+// hdfc : 2015-07-30 HDFC BANK LIMITED
 hdfc
 
-// hdfcbank : 2015-02-12 HDFC Bank Limited
+// hdfcbank : 2015-02-12 HDFC BANK LIMITED
 hdfcbank
 
 // health : 2015-02-11 Registry Services, LLC
@@ -8074,7 +8044,7 @@ horse
 // hospital : 2016-10-20 Binky Moon, LLC
 hospital
 
-// host : 2014-04-17 Radix FZC
+// host : 2014-04-17 Radix Technologies Inc.
 host
 
 // hosting : 2014-05-29 XYZ.COM LLC
@@ -8239,7 +8209,7 @@ jpmorgan
 // jprs : 2014-09-18 Japan Registry Services Co., Ltd.
 jprs
 
-// juegos : 2014-03-20 Internet Naming Company LLC
+// juegos : 2014-03-20 Dog Beach, LLC
 juegos
 
 // juniper : 2015-07-30 JUNIPER NETWORKS, INC.
@@ -8271,9 +8241,6 @@ kids
 
 // kim : 2013-09-23 Identity Digital Limited
 kim
-
-// kinder : 2014-11-07 Ferrero Trading Lux S.A.
-kinder
 
 // kindle : 2015-06-25 Amazon Registry Services, Inc.
 kindle
@@ -8383,7 +8350,7 @@ life
 // lifeinsurance : 2015-01-15 American Council of Life Insurers
 lifeinsurance
 
-// lifestyle : 2014-12-11 Lifestyle Domain Holdings, Inc.
+// lifestyle : 2014-12-11 Internet Naming Company LLC
 lifestyle
 
 // lighting : 2013-08-27 Binky Moon, LLC
@@ -8413,7 +8380,7 @@ lipsy
 // live : 2014-12-04 Dog Beach, LLC
 live
 
-// living : 2015-07-30 Lifestyle Domain Holdings, Inc.
+// living : 2015-07-30 Internet Naming Company LLC
 living
 
 // llc : 2017-12-14 Identity Digital Limited
@@ -8428,7 +8395,7 @@ loan
 // loans : 2014-03-20 Binky Moon, LLC
 loans
 
-// locker : 2015-06-04 Dish DBS Corporation
+// locker : 2015-06-04 Orange Domains LLC
 locker
 
 // locus : 2015-06-25 Locus Analytics LLC
@@ -8446,7 +8413,7 @@ lotte
 // lotto : 2014-04-10 Identity Digital Limited
 lotto
 
-// love : 2014-12-22 Merchant Law Group LLP
+// love : 2014-12-22 Waterford Limited
 love
 
 // lpl : 2015-07-30 LPL Holdings, Inc.
@@ -8482,7 +8449,7 @@ maison
 // makeup : 2015-01-15 XYZ.COM LLC
 makeup
 
-// man : 2014-12-04 MAN SE
+// man : 2014-12-04 MAN Truck & Bus SE
 man
 
 // management : 2013-11-07 Binky Moon, LLC
@@ -8541,6 +8508,9 @@ men
 
 // menu : 2013-09-11 Dot Menu Registry, LLC
 menu
+
+// merck :  Merck Registry Holdings, Inc.
+merck
 
 // merckmsd : 2016-07-14 MSD Registry Holdings, Inc.
 merckmsd
@@ -8629,17 +8599,11 @@ mtr
 // music : 2021-05-04 DotMusic Limited
 music
 
-// mutual : 2015-04-02 Northwestern Mutual MU TLD Registry, LLC
-mutual
-
 // nab : 2015-08-20 National Australia Bank Limited
 nab
 
 // nagoya : 2013-10-24 GMO Registry, Inc.
 nagoya
-
-// natura : 2015-03-12 NATURA COSMÉTICOS S.A.
-natura
 
 // navy : 2014-03-06 Dog Beach, LLC
 navy
@@ -8707,10 +8671,7 @@ nissay
 // nokia : 2015-01-08 Nokia Corporation
 nokia
 
-// northwesternmutual : 2015-06-18 Northwestern Mutual Registry, LLC
-northwesternmutual
-
-// norton : 2014-12-04 NortonLifeLock Inc.
+// norton : 2014-12-04 Gen Digital Inc.
 norton
 
 // now : 2015-06-25 Amazon Registry Services, Inc.
@@ -8737,7 +8698,7 @@ nyc
 // obi : 2014-09-25 OBI Group Holding SE & Co. KGaA
 obi
 
-// observer : 2015-04-30 Dog Beach, LLC
+// observer : 2015-04-30 Fegistry, LLC
 observer
 
 // office : 2015-03-12 Microsoft Corporation
@@ -8751,9 +8712,6 @@ olayan
 
 // olayangroup : 2015-05-14 Competrol (Luxembourg) Sarl
 olayangroup
-
-// oldnavy : 2015-07-31 The Gap, Inc.
-oldnavy
 
 // ollo : 2015-06-04 Dish DBS Corporation
 ollo
@@ -8770,7 +8728,7 @@ ong
 // onl : 2013-09-16 iRegistry GmbH
 onl
 
-// online : 2015-01-15 Radix FZC
+// online : 2015-01-15 Radix Technologies Inc.
 online
 
 // ooo : 2014-01-09 INFIBEAM AVENUES LIMITED
@@ -8923,7 +8881,7 @@ pramerica
 // praxi : 2013-12-05 Praxi S.p.A.
 praxi
 
-// press : 2014-04-03 Radix FZC
+// press : 2014-04-03 Radix Technologies Inc.
 press
 
 // prime : 2015-06-25 Amazon Registry Services, Inc.
@@ -8947,7 +8905,7 @@ promo
 // properties : 2013-12-05 Binky Moon, LLC
 properties
 
-// property : 2014-05-22 Internet Naming Company LLC
+// property : 2014-05-22 Digital Property Infrastructure Limited
 property
 
 // protection : 2015-04-23 XYZ.COM LLC
@@ -8989,7 +8947,7 @@ realestate
 // realtor : 2014-05-29 Real Estate Domains LLC
 realtor
 
-// realty : 2015-03-19 Dog Beach, LLC
+// realty : 2015-03-19 Waterford Limited
 realty
 
 // recipes : 2013-10-17 Binky Moon, LLC
@@ -9069,9 +9027,6 @@ rio
 
 // rip : 2014-07-10 Dog Beach, LLC
 rip
-
-// rocher : 2014-12-18 Ferrero Trading Lux S.A.
-rocher
 
 // rocks : 2013-11-14 Dog Beach, LLC
 rocks
@@ -9157,9 +9112,6 @@ sbi
 // sbs : 2014-11-07 ShortDot SA
 sbs
 
-// sca : 2014-03-13 SVENSKA CELLULOSA AKTIEBOLAGET SCA (publ)
-sca
-
 // scb : 2014-02-20 The Siam Commercial Bank Public Company Limited ("SCB")
 scb
 
@@ -9232,9 +9184,6 @@ shangrila
 // sharp : 2014-05-01 Sharp Corporation
 sharp
 
-// shaw : 2015-04-23 Shaw Cablesystems G.P.
-shaw
-
 // shell : 2015-07-30 Shell Information Technology International Inc
 shell
 
@@ -9259,9 +9208,6 @@ shouji
 // show : 2015-03-05 Binky Moon, LLC
 show
 
-// showtime : 2015-08-06 CBS Domains Inc.
-showtime
-
 // silk : 2015-06-25 Amazon Registry Services, Inc.
 silk
 
@@ -9271,7 +9217,7 @@ sina
 // singles : 2013-08-27 Binky Moon, LLC
 singles
 
-// site : 2015-01-15 Radix FZC
+// site : 2015-01-15 Radix Technologies Inc.
 site
 
 // ski : 2015-04-09 Identity Digital Limited
@@ -9331,7 +9277,7 @@ soy
 // spa : 2019-09-19 Asia Spa and Wellness Promotion Council Limited
 spa
 
-// space : 2014-04-03 Radix FZC
+// space : 2014-04-03 Radix Technologies Inc.
 space
 
 // sport : 2017-11-16 SportAccord
@@ -9370,7 +9316,7 @@ stockholm
 // storage : 2014-12-22 XYZ.COM LLC
 storage
 
-// store : 2015-04-09 Radix FZC
+// store : 2015-04-09 Radix Technologies Inc.
 store
 
 // stream : 2016-01-08 dot Stream Limited
@@ -9457,7 +9403,7 @@ tdk
 // team : 2015-03-05 Binky Moon, LLC
 team
 
-// tech : 2015-01-30 Radix FZC
+// tech : 2015-01-30 Radix Technologies Inc.
 tech
 
 // technology : 2013-09-13 Binky Moon, LLC
@@ -9489,9 +9435,6 @@ tickets
 
 // tienda : 2013-11-14 Binky Moon, LLC
 tienda
-
-// tiffany : 2015-01-30 Tiffany and Company
-tiffany
 
 // tips : 2013-09-20 Binky Moon, LLC
 tips
@@ -9598,7 +9541,7 @@ unicom
 // university : 2014-03-06 Binky Moon, LLC
 university
 
-// uno : 2013-09-11 Radix FZC
+// uno : 2013-09-11 Radix Technologies Inc.
 uno
 
 // uol : 2014-05-01 UBN INTERNET LTDA.
@@ -9610,7 +9553,7 @@ ups
 // vacations : 2013-12-05 Binky Moon, LLC
 vacations
 
-// vana : 2014-12-11 Lifestyle Domain Holdings, Inc.
+// vana : 2014-12-11 D3 Registry LLC
 vana
 
 // vanguard : 2015-09-03 The Vanguard Group, Inc.
@@ -9673,9 +9616,6 @@ vlaanderen
 // vodka : 2013-12-19 Registry Services, LLC
 vodka
 
-// volkswagen : 2015-05-14 Volkswagen Group of America Inc.
-volkswagen
-
 // volvo : 2015-11-12 Volvo Holding Sverige Aktiebolag
 volvo
 
@@ -9724,7 +9664,7 @@ webcam
 // weber : 2015-06-04 Saint-Gobain Weber SA
 weber
 
-// website : 2014-04-03 Radix FZC
+// website : 2014-04-03 Radix Technologies Inc.
 website
 
 // wedding : 2014-04-24 Registry Services, LLC
@@ -9792,9 +9732,6 @@ xbox
 
 // xerox : 2014-10-24 Xerox DNHC LLC
 xerox
-
-// xfinity : 2015-07-09 Comcast IP Holdings I, LLC
-xfinity
 
 // xihuan : 2015-01-08 Beijing Qihu Keji Co., Ltd.
 xihuan
@@ -9976,9 +9913,6 @@ xin
 // xn--mgba7c0bbn0a : 2015-05-14 Competrol (Luxembourg) Sarl
 العليان
 
-// xn--mgbaakc7dvf : 2015-09-03 Emirates Telecommunications Corporation (trading as Etisalat)
-اتصالات
-
 // xn--mgbab2bd : 2013-10-31 CORE Association
 بازار
 
@@ -10081,7 +10015,7 @@ xyz
 // yachts : 2014-01-09 XYZ.COM LLC
 yachts
 
-// yahoo : 2015-04-02 Oath Inc.
+// yahoo : 2015-04-02 Yahoo Inc.
 yahoo
 
 // yamaxun : 2014-12-18 Amazon Registry Services, Inc.
